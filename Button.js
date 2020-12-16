@@ -28,7 +28,7 @@ setState({
 
 return (
 <div className="App">
-<button className="App" onClick={axios.get('https://api.chucknorris.io/jokes/random')}>SCIENCE</button>
+<button className="App" onClick={state.joke}>SCIENCE</button>
 </div>
 
 
