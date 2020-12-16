@@ -15,9 +15,7 @@ h4 {
 
   color: #fff;
 }
-.btn {
-  margin-top: 20px;
-}
+
 .subTitle{
   font-size: 40px;
   margin-top: 50px;
@@ -25,14 +23,14 @@ h4 {
   text-transform: uppercase;
   text-shadow: 5px 5px rgb (0,0,0) 
 }
-.button {
+.Button {
   border: none;
   color: white;
-  padding: 15px 32px;
+  padding: 45px 52px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 16px;
-  margin: 4px 2px;
+  font-size: 46px;
+  margin: 41px 12px;
   cursor: pointer;
 }

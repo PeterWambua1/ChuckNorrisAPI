@@ -1,7 +1,7 @@
 import React, {useEffect, useState } from 'react';
 import axios from 'axios';
 import './App.css';
-
+import Button from './Button';
 function App() {
 
   const[state, setState]= useState ({
@@ -33,11 +33,15 @@ setState({
         <div className="col-6">
       <h1 className="title">Chuck Norris API </h1>
     </div>
-    </div>
 
+  
+
+    </div>
+<h2 className=" subTitle"> School </h2>
+ <button/>
 <h3> {state.joke}</h3>
     </div>
-     
+
 
   );
 }
