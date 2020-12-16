@@ -1,0 +1,38 @@
+body {
+background-color: royalblue;
+text-align: center;
+
+
+}
+.title{
+color: red;
+text-transform: uppercase;
+font-size: 50px;
+text-shadow: 5px 5px rgb (0,0,0);  
+text-align: center;
+}
+h4 {
+
+  color: #fff;
+}
+.btn {
+  margin-top: 20px;
+}
+.subTitle{
+  font-size: 40px;
+  margin-top: 50px;
+  color: #fff;
+  text-transform: uppercase;
+  text-shadow: 5px 5px rgb (0,0,0) 
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
